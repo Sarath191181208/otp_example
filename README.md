@@ -1,8 +1,13 @@
 # A simple show case of server-client with flutter 
 
 # Demo 
-[Image of server and curl](./assets/screenshot.png)
-[Image of server and flutter](./assets/screenshot2.png)
+The image demo with curl
+![Image of server and curl](./assets/screenshot.png)
+
+---
+
+The image demo with flutter
+![Image of server and flutter](./assets/screenshot2.png)
 
 ## Setup 
 Sarting the server
